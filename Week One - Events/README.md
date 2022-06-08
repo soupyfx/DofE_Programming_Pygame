@@ -11,8 +11,9 @@ Today I leared how to use the pygame.event and pygame.key this allows me to dete
 
 ## Resources Used (Like docs and youtube videos)
 
-- [pygame docs](https://www.pygame.org/docs/ref/event.html#pygame.event.post)
-- [pygame docs](https://www.pygame.org/docs/ref/key.html#pygame.key.set_mods)
+- [pygame docs Event](https://www.pygame.org/docs/ref/event.html)
+- [pygame docs Key](https://www.pygame.org/docs/ref/key.html)
+- [pygame docs Time](https://www.pygame.org/docs/ref/time.html)
 - [youtube video](https://www.youtube.com/watch?v=eQDi3h61In4)
 
 ## Authors
