@@ -6,14 +6,11 @@ This repository is for compliling the progress I make with my skill in DofE
 ```
   [WEEKNUMBER] - [SHORTDESCRIPTION]
 ```
-##### Or (When I start working on my game)
-```
-  [WEEKNUMBER] - [GAMENAME][VER]
-```
+
 ##### Inside each folder you will find
 - A readme explaing what I did that week and more
 - Code (duh)
-- Other things like textures, sounds and fonts
+- Other things like textures, sounds and fonts (In assets Folder)
 
 ## Authors
 - [@SoupyFX ](https://github.com/SoupyFX)
