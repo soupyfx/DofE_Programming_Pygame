@@ -8,6 +8,7 @@ Today I leared how to use the pygame.event and pygame.key this allows me to dete
 - How to use Custom Events
 - How to detect events
 - Event codes
+- How to detect keystrokes and key combos (like alt+f4)
 
 ## Resources Used (Like docs and youtube videos)
 
