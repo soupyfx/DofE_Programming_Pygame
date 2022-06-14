@@ -1,5 +1,5 @@
 # Week One
-Today I leared how to use the pygame.event and pygame.key this allows me to detect key presses and mouse movement and much more
+Today I leared how to use the pygame.event and pygame.key this allows me to detect key presses and mouse movement and how to trigger and create custom events with pygame.time
 
 # Infomation
 ## Inprovemens (Like what have I learned)
