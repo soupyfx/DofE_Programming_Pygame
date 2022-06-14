@@ -1,6 +1,6 @@
 # Week Two
 
-This week I drew some shapes onto the screen o
+Today I leared how to use pygame.Draw with multiple shapes and how to change them on the fly I also used basic colors to color the shapes and how to use antialiased stuff.
 
 # Infomation
 ## Inprovemens (Like what have I learned)
