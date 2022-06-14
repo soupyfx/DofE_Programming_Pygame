@@ -18,7 +18,7 @@ This task will be split up into two sections
 This section will incude
 - Learing pygame
 - Short code demonstrating the skill
-- A discription of every week
+- A description of every week
 ### Section Two
 This section will include 
 - Making a game with pygame
