@@ -1,4 +1,4 @@
-# Week One
+# Week Four
 So today I made a small game in pygame its a game where you have to dodge planets (I know so orignal) and the game looks really ugly and has like no sound but it worked and only took me 6 or so hours over 2 days
 
 Also there are a lot less comments because there is no need for them (I still tried to add them where I could)
