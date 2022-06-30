@@ -11,7 +11,7 @@ class Player(pygame.sprite.Sprite):
         self.image = pygame.image.load(texture)
         self.rect = self.image.get_rect()
         self.rect.center = [1400,500]
-        self.health = 1
+        self.health = 10
     def updatePlayerMovement(self,y):
         if y == -10:
             if self.rect.center[1] == 0:
