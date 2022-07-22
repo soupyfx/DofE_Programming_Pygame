@@ -3,6 +3,8 @@ Today I programmed some basic systems to make the game I am programming easyer t
 
 I got this idea from [This person](https://www.youtube.com/channel/UCPrRY0S-VzekrJK7I7F4-Mg) so yea (I also used alot of his code this person was a big help in general so credit goes to him)
 
+Also the game I am going to be making is rock paper sissors cause its easy to make and allows me to just focus on the pygame side of things
+
 # Infomation
 ## Inprovemens (What am I doing next week)
 
