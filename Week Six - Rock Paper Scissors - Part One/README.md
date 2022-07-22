@@ -1,4 +1,4 @@
-# Week Sixe
+# Week Six
 Today I programmed some basic systems to make the game I am programming easyer to devloup
 
 I got this idea from [This person](https://www.youtube.com/channel/UCPrRY0S-VzekrJK7I7F4-Mg) so yea (I also used alot of his code this person was a big help in general so credit goes to him)
