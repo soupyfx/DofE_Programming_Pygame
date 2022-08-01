@@ -18,7 +18,7 @@ I also removed the button system as it was bringing in alot of uncessarry comple
 
 ## Resources Used (Like docs and youtube videos)
 
-- [youtube video](https://www.youtube.com/watch?v=2iyx8_elcYg) !The youtube video I talk about above!
+- e
 
 ## Authors
 - [@SoupyFX ](https://github.com/SoupyFX)
