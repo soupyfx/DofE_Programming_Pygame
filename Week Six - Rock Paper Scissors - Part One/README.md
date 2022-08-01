@@ -8,11 +8,11 @@ Also the game I am going to be making is rock paper sissors cause its easy to ma
 # Infomation
 ## Inprovemens (What am I doing next week)
 
-- Adding player inputs
+- Add menus (game end/how to play)
 
 ## Inprovemens altogether (What am I going to need to do altogether)
 
-- Add menus (game end/how to play)
+- Adding player inputs
 - Programming cpu
 - Making textures
 - Addding sounds
